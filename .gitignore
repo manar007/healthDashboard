@@ -1,0 +1,5 @@
+# Secrets and tokens
+.garmin_tokens/
+*.env
+__pycache__/
+*.pyc
