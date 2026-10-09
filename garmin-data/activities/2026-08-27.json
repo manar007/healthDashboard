@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-08-27T20:32+04:00",
+  "data": {
+    "count": 1,
+    "date_range": { "start": "2026-08-27", "end": "2026-08-27" },
+    "activities": [
+      {
+        "id": 24133070976,
+        "name": "Running",
+        "type": "running",
+        "start_time": "2026-08-27 11:08:11",
+        "distance_meters": 8032.24,
+        "duration_seconds": 3153.73,
+        "avg_hr_bpm": 136.0,
+        "max_hr_bpm": 155.0,
+        "elevation_gain_meters": 68.71
+      }
+    ]
+  }
+}

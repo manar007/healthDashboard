@@ -1,0 +1,21 @@
+{
+  "data": {
+    "sleep_seconds": 28500,
+    "nap_seconds": 0,
+    "sleep_start": 1786648020000,
+    "sleep_end": 1786676520000,
+    "sleep_score": 90,
+    "sleep_score_qualifier": "EXCELLENT",
+    "deep_sleep_seconds": 4620,
+    "light_sleep_seconds": 18420,
+    "rem_sleep_seconds": 5460,
+    "awake_seconds": 0,
+    "awake_count": 0,
+    "avg_sleep_stress": 14.0,
+    "avg_overnight_hrv": 44.0,
+    "deep_sleep_percent": 16.2,
+    "light_sleep_percent": 64.6,
+    "rem_sleep_percent": 19.2,
+    "sleep_hours": 7.92
+  }
+}

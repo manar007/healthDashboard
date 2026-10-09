@@ -1,0 +1,19 @@
+{
+  "_fetched_at": "2026-08-24T18:42+04:00",
+  "data": {
+    "sleep_seconds": 24960,
+    "sleep_score": 77,
+    "sleep_score_qualifier": "FAIR",
+    "deep_sleep_seconds": 4140,
+    "light_sleep_seconds": 17340,
+    "rem_sleep_seconds": 3480,
+    "awake_seconds": 0,
+    "awake_count": 0,
+    "avg_sleep_stress": 20.0,
+    "avg_overnight_hrv": 39.0,
+    "deep_sleep_percent": 16.6,
+    "light_sleep_percent": 69.5,
+    "rem_sleep_percent": 13.9,
+    "sleep_hours": 6.93
+  }
+}

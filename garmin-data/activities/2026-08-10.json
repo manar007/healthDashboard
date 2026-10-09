@@ -1,0 +1,24 @@
+{
+  "data": {
+    "count": 1,
+    "page": 0,
+    "page_size": 100,
+    "has_more": false,
+    "date_range": { "start": "2026-08-10", "end": "2026-08-10" },
+    "activities": [
+      {
+        "id": 23918646379,
+        "name": "Strength",
+        "type": "strength_training",
+        "event_type": "uncategorized",
+        "start_time": "2026-08-10 09:31:55",
+        "distance_meters": 0.0,
+        "duration_seconds": 944.9910278320312,
+        "calories": 51.0,
+        "avg_hr_bpm": 80.0,
+        "max_hr_bpm": 113.0,
+        "steps": 10
+      }
+    ]
+  }
+}

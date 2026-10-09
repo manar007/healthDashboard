@@ -1,0 +1,30 @@
+{
+  "_fetched_at": "2026-09-29T10:14+04:00",
+  "data": {
+    "count": 2,
+    "activities": [
+      {
+        "id": 24519714226,
+        "name": "Hiking",
+        "duration_seconds": 36840.8,
+        "distance_meters": 10141,
+        "calories": 4239,
+        "avg_hr_bpm": 129,
+        "max_hr_bpm": 166,
+        "elevation_gain_meters": 1433.4,
+        "elevation_loss_meters": 949.2
+      },
+      {
+        "id": 24519718362,
+        "name": "Hiking",
+        "duration_seconds": 6444.1,
+        "distance_meters": 5245,
+        "calories": 456,
+        "avg_hr_bpm": 92,
+        "max_hr_bpm": 134,
+        "elevation_gain_meters": 17.8,
+        "elevation_loss_meters": 625.7
+      }
+    ]
+  }
+}

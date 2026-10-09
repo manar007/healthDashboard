@@ -1,0 +1,13 @@
+{
+  "_fetched_at": "2026-09-07T09:08+04:00",
+  "data": {
+    "date": "2026-09-07",
+    "charged": 32,
+    "drained": 1,
+    "highest": 37,
+    "lowest": 5,
+    "at_wake": 37,
+    "most_recent": 36,
+    "events": []
+  }
+}

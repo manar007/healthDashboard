@@ -1,0 +1,14 @@
+---
+description: Always use kilometres with Narek for training, racing, and pacing
+alwaysApply: true
+---
+
+# Distances in kilometres
+
+Always talk to Narek in kilometres, not miles.
+
+- Paces: min/km (marathon pace 4:55/km). Convert any mile pace.
+- Workouts, longs, races: km. NYC = 42.2 km.
+- Aid stations / course landmarks: give km (you may put miles in parentheses once if the official source is mile-marked).
+- Gels and fueling: schedule by km and by minutes, not by mile.
+- Do not default to miles for US races.

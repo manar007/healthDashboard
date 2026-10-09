@@ -1,0 +1,17 @@
+{
+  "_fetched_at": "2026-10-01T09:09+04:00",
+  "data": {
+    "count": 1,
+    "activities": [
+      {
+        "id": 24562153727,
+        "name": "Running",
+        "distance_meters": 10017,
+        "duration_seconds": 3764.3,
+        "avg_hr_bpm": 132,
+        "max_hr_bpm": 154,
+        "elevation_gain_meters": 40.85
+      }
+    ]
+  }
+}

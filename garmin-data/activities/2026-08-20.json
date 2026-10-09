@@ -1,0 +1,34 @@
+{
+  "_fetched_at": "2026-08-21T10:05+04:00",
+  "data": {
+    "count": 2,
+    "date_range": { "start": "2026-08-20", "end": "2026-08-20" },
+    "activities": [
+      {
+        "id": 24045189168,
+        "name": "Running",
+        "type": "running",
+        "start_time": "2026-08-20 10:16:38",
+        "distance_meters": 10007.69,
+        "duration_seconds": 3559.35,
+        "calories": 770.0,
+        "avg_hr_bpm": 154.0,
+        "max_hr_bpm": 175.0,
+        "steps": 9682,
+        "elevation_gain_meters": 61.4,
+        "elevation_loss_meters": 62.28
+      },
+      {
+        "id": 24044302356,
+        "name": "Strength",
+        "type": "strength_training",
+        "start_time": "2026-08-20 08:51:36",
+        "distance_meters": 0.0,
+        "duration_seconds": 1508.44,
+        "calories": 110.0,
+        "avg_hr_bpm": 89.0,
+        "max_hr_bpm": 122.0
+      }
+    ]
+  }
+}

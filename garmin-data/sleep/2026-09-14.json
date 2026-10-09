@@ -1,0 +1,12 @@
+{
+  "_fetched_at": "2026-09-18T10:44+04:00",
+  "data": {
+    "sleep_seconds": 11700,
+    "sleep_score": 23,
+    "sleep_score_qualifier": "POOR",
+    "avg_overnight_hrv": 27.0,
+    "sleep_hours": 3.25,
+    "rem_sleep_seconds": 0,
+    "avg_sleep_stress": 58.0
+  }
+}

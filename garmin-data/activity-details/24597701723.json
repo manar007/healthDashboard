@@ -1,0 +1,14 @@
+{
+  "_fetched_at": "2026-10-04T10:55+04:00",
+  "data": {
+    "id": 24597701723,
+    "name": "Strength",
+    "type": "strength_training",
+    "duration_seconds": 2480.685,
+    "avg_hr_bpm": 81,
+    "max_hr_bpm": 115,
+    "calories": 134,
+    "training_load": 2.24,
+    "training_effect": 0.1
+  }
+}

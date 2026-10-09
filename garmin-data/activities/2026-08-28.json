@@ -1,0 +1,21 @@
+{
+  "_fetched_at": "2026-08-28T15:08+04:00",
+  "data": {
+    "count": 1,
+    "date_range": { "start": "2026-08-28", "end": "2026-08-28" },
+    "activities": [
+      {
+        "id": 24146929057,
+        "name": "Zwift - The Long Ride",
+        "type": "virtual_ride",
+        "start_time": "2026-08-28 13:23:17",
+        "distance_meters": 46050.32,
+        "duration_seconds": 5262.0,
+        "avg_hr_bpm": 138.0,
+        "max_hr_bpm": 163.0,
+        "avg_power_watts": 181.0,
+        "normalized_power_watts": 195.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fetched_at": "2026-08-26T22:02+04:00",
+  "data": {
+    "id": 24119398341,
+    "name": "Running",
+    "start_time_local": "2026-08-26T10:18:59.0",
+    "duration_seconds": 1348.163,
+    "distance_meters": 4008.43,
+    "avg_hr_bpm": 163.0,
+    "max_hr_bpm": 177.0,
+    "avg_cadence": 163.0,
+    "avg_stride_length_cm": 109.8,
+    "training_effect": 3.0,
+    "training_load": 86.4,
+    "splits": [
+      { "km": 1, "pace": "5:40", "avg_hr": 157, "max_hr": 166 },
+      { "km": 2, "pace": "5:42", "avg_hr": 163, "max_hr": 171 },
+      { "km": 3, "pace": "5:28", "avg_hr": 165, "max_hr": 170 },
+      { "km": 4, "pace": "5:36", "avg_hr": 168, "max_hr": 177 }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fetched_at": "2026-09-25T10:05+04:00",
+  "data": {
+    "sleep_hours": 6.72,
+    "sleep_score": 77,
+    "sleep_score_qualifier": "FAIR",
+    "avg_overnight_hrv": 42.0,
+    "deep_sleep_percent": 23.1,
+    "rem_sleep_percent": 15.1
+  }
+}

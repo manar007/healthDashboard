@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-08-18T20:28+04:00",
+  "data": {
+    "sleep_seconds": 29940,
+    "sleep_score": 35,
+    "sleep_score_qualifier": "POOR",
+    "deep_sleep_seconds": 720,
+    "light_sleep_seconds": 29220,
+    "rem_sleep_seconds": 0,
+    "awake_seconds": 5940,
+    "awake_count": 2,
+    "avg_sleep_stress": 36.0,
+    "avg_overnight_hrv": 32.0,
+    "deep_sleep_percent": 2.4,
+    "light_sleep_percent": 97.6,
+    "rem_sleep_percent": 0.0,
+    "sleep_hours": 8.32,
+    "note": "8h20 in bed but only 12 min deep sleep, 0 REM, 99 min awake, HRV 32 (below Balanced floor). Fractured night — possible alcohol, stress, or illness onset."
+  }
+}

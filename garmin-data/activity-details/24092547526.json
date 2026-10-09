@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-08-24T18:42+04:00",
+  "data": {
+    "id": 24092547526,
+    "name": "Open Water Swimming",
+    "type": "open_water_swimming",
+    "start_time_local": "2026-08-24T08:33:45.0",
+    "duration_seconds": 3314.882,
+    "moving_duration_seconds": 3169.0,
+    "distance_meters": 2121.26,
+    "avg_hr_bpm": 123.0,
+    "max_hr_bpm": 143.0,
+    "training_effect": 2.0,
+    "anaerobic_training_effect": 0.0,
+    "training_effect_label": "AEROBIC_BASE",
+    "training_load": 28.7,
+    "pace_per_100m_moving": "2:29",
+    "implied_1_9km": "~50 min"
+  }
+}

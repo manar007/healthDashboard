@@ -1,0 +1,18 @@
+{
+  "_fetched_at": "2026-09-20T11:05+04:00",
+  "data": {
+    "count": 1,
+    "activities": [
+      {
+        "id": 24427099494,
+        "name": "Running",
+        "type": "running",
+        "start_time": "2026-09-20 07:14:45",
+        "distance_meters": 22002.95,
+        "duration_seconds": 9557.5,
+        "avg_hr_bpm": 128.0,
+        "max_hr_bpm": 162.0
+      }
+    ]
+  }
+}

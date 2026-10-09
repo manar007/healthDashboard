@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-08-18T20:28+04:00",
+  "data": {
+    "count": 1,
+    "date_range": { "start": "2026-08-16", "end": "2026-08-16" },
+    "activities": [
+      {
+        "id": 23995225118,
+        "name": "Open Water Swimming",
+        "type": "open_water_swimming",
+        "start_time": "2026-08-16 12:20:37",
+        "distance_meters": 1061.91,
+        "duration_seconds": 1683.11,
+        "calories": 233.0,
+        "avg_hr_bpm": 133.0,
+        "max_hr_bpm": 152.0
+      }
+    ]
+  }
+}

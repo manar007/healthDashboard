@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-08-18T20:28+04:00",
+  "data": {
+    "count": 1,
+    "date_range": { "start": "2026-08-17", "end": "2026-08-17" },
+    "activities": [
+      {
+        "id": 24006301728,
+        "name": "Strength",
+        "type": "strength_training",
+        "start_time": "2026-08-17 10:31:11",
+        "distance_meters": 0.0,
+        "duration_seconds": 1385.45,
+        "calories": 90.0,
+        "avg_hr_bpm": 85.0,
+        "max_hr_bpm": 113.0
+      }
+    ]
+  }
+}

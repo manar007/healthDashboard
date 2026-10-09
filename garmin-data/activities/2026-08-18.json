@@ -1,0 +1,24 @@
+{
+  "_fetched_at": "2026-08-18T20:28+04:00",
+  "data": {
+    "count": 1,
+    "date_range": { "start": "2026-08-18", "end": "2026-08-18" },
+    "activities": [
+      {
+        "id": 24017820481,
+        "name": "Running",
+        "type": "running",
+        "start_time": "2026-08-18 06:58:03",
+        "distance_meters": 8954.38,
+        "duration_seconds": 2964.40,
+        "calories": 657.0,
+        "avg_hr_bpm": 156.0,
+        "max_hr_bpm": 183.0,
+        "steps": 7954,
+        "elevation_gain_meters": 30.94,
+        "elevation_loss_meters": 20.41,
+        "note": "MP session — actual: 6 × 1 km @ 4:19–4:46, HR 159–166. Prescribed: 4 × 1 km @ 4:55."
+      }
+    ]
+  }
+}

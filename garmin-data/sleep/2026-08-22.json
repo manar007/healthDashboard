@@ -1,0 +1,19 @@
+{
+  "_fetched_at": "2026-08-22T08:56+04:00",
+  "data": {
+    "sleep_seconds": 32580,
+    "sleep_score": 92,
+    "sleep_score_qualifier": "EXCELLENT",
+    "deep_sleep_seconds": 7440,
+    "light_sleep_seconds": 17820,
+    "rem_sleep_seconds": 7320,
+    "awake_seconds": 0,
+    "awake_count": 0,
+    "avg_sleep_stress": 15.0,
+    "avg_overnight_hrv": 40.0,
+    "deep_sleep_percent": 22.8,
+    "light_sleep_percent": 54.7,
+    "rem_sleep_percent": 22.5,
+    "sleep_hours": 9.05
+  }
+}

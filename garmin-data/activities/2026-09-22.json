@@ -1,0 +1,11 @@
+{
+  "_fetched_at": "2026-09-22T09:57+04:00",
+  "data": {
+    "count": 3,
+    "activities": [
+      {"id": 24451359590, "name": "warmup", "distance_meters": 2350, "avg_hr_bpm": 129},
+      {"id": 24451423280, "name": "MP set", "distance_meters": 9257, "avg_hr_bpm": 167, "max_hr_bpm": 180},
+      {"id": 24451423986, "name": "cooldown", "distance_meters": 1001, "avg_hr_bpm": 138}
+    ]
+  }
+}

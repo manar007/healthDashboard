@@ -1,0 +1,16 @@
+{
+  "_fetched_at": "2026-09-29T10:14+04:00",
+  "data": {
+    "count": 1,
+    "activities": [
+      {
+        "id": 24536907702,
+        "distance_meters": 7458,
+        "duration_seconds": 2835,
+        "avg_hr_bpm": 132,
+        "max_hr_bpm": 145,
+        "elevation_gain_meters": 34
+      }
+    ]
+  }
+}

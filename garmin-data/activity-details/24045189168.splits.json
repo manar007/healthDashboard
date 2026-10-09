@@ -1,0 +1,19 @@
+{
+  "_fetched_at": "2026-08-21T10:05+04:00",
+  "data": {
+    "activity_id": 24045189168,
+    "lap_count": 10,
+    "laps_summary": [
+      { "km": 1,  "pace_min_per_km": "6:26", "avg_hr": 138, "max_hr": 150, "gain_m": 13.7 },
+      { "km": 2,  "pace_min_per_km": "6:04", "avg_hr": 149, "max_hr": 156, "gain_m": 12.5 },
+      { "km": 3,  "pace_min_per_km": "6:01", "avg_hr": 146, "max_hr": 153, "gain_m": 4.8 },
+      { "km": 4,  "pace_min_per_km": "5:50", "avg_hr": 146, "max_hr": 151, "gain_m": 0 },
+      { "km": 5,  "pace_min_per_km": "6:14", "avg_hr": 146, "max_hr": 155, "gain_m": 0 },
+      { "km": 6,  "pace_min_per_km": "5:30", "avg_hr": 165, "max_hr": 175, "gain_m": 12.1 },
+      { "km": 7,  "pace_min_per_km": "5:44", "avg_hr": 167, "max_hr": 173, "gain_m": 12.2 },
+      { "km": 8,  "pace_min_per_km": "5:53", "avg_hr": 162, "max_hr": 170, "gain_m": 6.4 },
+      { "km": 9,  "pace_min_per_km": "5:39", "avg_hr": 162, "max_hr": 168, "gain_m": 0 },
+      { "km": 10, "pace_min_per_km": "5:56", "avg_hr": 162, "max_hr": 169, "gain_m": 0 }
+    ]
+  }
+}

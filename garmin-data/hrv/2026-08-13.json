@@ -1,0 +1,9 @@
+{
+  "data": {
+    "date": "2026-08-13",
+    "weekly_avg_hrv_ms": 36,
+    "last_night_5min_high_hrv_ms": 67,
+    "status": "BALANCED",
+    "feedback": "HRV_BALANCED_2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fetched_at": "2026-08-19T10:07+04:00",
+  "data": {
+    "count": 1,
+    "date_range": { "start": "2026-08-19", "end": "2026-08-19" },
+    "activities": [
+      {
+        "id": 24031691847,
+        "name": "Road Cycling",
+        "type": "road_biking",
+        "start_time": "2026-08-19 08:08:26",
+        "distance_meters": 52138.12,
+        "duration_seconds": 6491.12,
+        "calories": 896.0,
+        "avg_hr_bpm": 128.0,
+        "max_hr_bpm": 161.0,
+        "elevation_gain_meters": 194.0,
+        "elevation_loss_meters": 195.0,
+        "note": "Prescribed: 2 h Z2, HR <140. Actual: 1 h 48 min, HR 128 avg. Slightly short, HR discipline A+."
+      }
+    ]
+  }
+}

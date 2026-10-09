@@ -1,0 +1,40 @@
+{
+  "data": {
+    "count": 2,
+    "page": 0,
+    "page_size": 100,
+    "has_more": false,
+    "date_range": { "start": "2026-08-12", "end": "2026-08-12" },
+    "activities": [
+      {
+        "id": 23945256801,
+        "name": "Running",
+        "type": "running",
+        "event_type": "uncategorized",
+        "start_time": "2026-08-12 10:08:51",
+        "distance_meters": 3011.22998046875,
+        "duration_seconds": 1056.9659423828125,
+        "calories": 232.0,
+        "avg_hr_bpm": 151.0,
+        "max_hr_bpm": 160.0,
+        "steps": 2850,
+        "elevation_gain_meters": 10.469999998807907,
+        "elevation_loss_meters": 12.77999997138977
+      },
+      {
+        "id": 23945086269,
+        "name": "Road Cycling",
+        "type": "road_biking",
+        "event_type": "uncategorized",
+        "start_time": "2026-08-12 07:00:57",
+        "distance_meters": 49570.01953125,
+        "duration_seconds": 9412.212890625,
+        "calories": 1189.0,
+        "avg_hr_bpm": 120.0,
+        "max_hr_bpm": 183.0,
+        "elevation_gain_meters": 833.0,
+        "elevation_loss_meters": 840.0
+      }
+    ]
+  }
+}

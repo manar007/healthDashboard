@@ -1,0 +1,28 @@
+{
+  "_fetched_at": "2026-08-27T20:32+04:00",
+  "data": {
+    "id": 24133070976,
+    "name": "Running",
+    "start_time_local": "2026-08-27T11:08:11.0",
+    "duration_seconds": 3153.728,
+    "distance_meters": 8032.24,
+    "avg_hr_bpm": 136.0,
+    "max_hr_bpm": 155.0,
+    "avg_cadence": 160.5,
+    "training_effect": 2.7,
+    "anaerobic_training_effect": 0.0,
+    "training_effect_label": "AEROBIC_BASE",
+    "training_load": 65.3,
+    "elevation_gain_meters": 68.71,
+    "splits": [
+      { "km": 1, "pace": "6:11", "avg_hr": 126 },
+      { "km": 2, "pace": "6:32", "avg_hr": 132 },
+      { "km": 3, "pace": "6:48", "avg_hr": 131 },
+      { "km": 4, "pace": "6:53", "avg_hr": 127 },
+      { "km": 5, "pace": "6:04", "avg_hr": 137 },
+      { "km": 6, "pace": "5:57", "avg_hr": 139 },
+      { "km": 7, "pace": "6:40", "avg_hr": 144, "gain_m": 18 },
+      { "km": 8, "pace": "7:15", "avg_hr": 147, "gain_m": 28 }
+    ]
+  }
+}

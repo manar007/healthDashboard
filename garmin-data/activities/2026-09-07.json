@@ -1,0 +1,14 @@
+{
+  "_fetched_at": "2026-09-07T09:08+04:00",
+  "data": {
+    "count": 0,
+    "page": 0,
+    "page_size": 100,
+    "has_more": false,
+    "date_range": {
+      "start": "2026-09-07",
+      "end": "2026-09-07"
+    },
+    "activities": []
+  }
+}

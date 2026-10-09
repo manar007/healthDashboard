@@ -1,0 +1,23 @@
+{
+  "data": {
+    "activity_id": 23930786821,
+    "lap_count": 15,
+    "laps": [
+      { "lap_number": 1, "distance_meters": 1000.0, "duration_seconds": 461.773, "avg_hr_bpm": 117.0, "max_hr_bpm": 129.0, "avg_cadence": 158.8125, "elevation_gain_meters": 7.17, "note": "warmup" },
+      { "lap_number": 2, "distance_meters": 184.31, "duration_seconds": 119.663, "avg_hr_bpm": 118.0, "max_hr_bpm": 122.0, "note": "recovery" },
+      { "lap_number": 3, "distance_meters": 1000.0, "duration_seconds": 280.175, "avg_hr_bpm": 159.0, "max_hr_bpm": 171.0, "avg_cadence": 174.0625, "pace_per_km_sec": 280, "note": "rep 1 — 4:40/km" },
+      { "lap_number": 4, "distance_meters": 241.4, "duration_seconds": 67.969, "avg_hr_bpm": 172.0, "max_hr_bpm": 175.0, "note": "recovery" },
+      { "lap_number": 5, "distance_meters": 109.71, "duration_seconds": 106.305, "avg_hr_bpm": 123.0, "max_hr_bpm": 172.0, "note": "recovery" },
+      { "lap_number": 6, "distance_meters": 1000.0, "duration_seconds": 277.747, "avg_hr_bpm": 164.0, "max_hr_bpm": 176.0, "avg_cadence": 176.8125, "note": "rep 2 — 4:38/km" },
+      { "lap_number": 7, "distance_meters": 259.78, "duration_seconds": 83.134, "avg_hr_bpm": 173.0, "max_hr_bpm": 176.0, "note": "recovery" },
+      { "lap_number": 8, "distance_meters": 5.45, "duration_seconds": 6.676, "note": "pause" },
+      { "lap_number": 9, "distance_meters": 1000.0, "duration_seconds": 274.331, "avg_hr_bpm": 166.0, "max_hr_bpm": 181.0, "avg_cadence": 177.375, "note": "rep 3 — 4:34/km" },
+      { "lap_number": 10, "distance_meters": 304.33, "duration_seconds": 121.671, "avg_hr_bpm": 168.0, "max_hr_bpm": 178.0, "note": "recovery" },
+      { "lap_number": 11, "distance_meters": 1000.0, "duration_seconds": 272.542, "avg_hr_bpm": 168.0, "max_hr_bpm": 183.0, "avg_cadence": 178.921875, "note": "rep 4 — 4:32/km" },
+      { "lap_number": 12, "distance_meters": 295.98, "duration_seconds": 115.461, "avg_hr_bpm": 177.0, "max_hr_bpm": 184.0, "note": "recovery" },
+      { "lap_number": 13, "distance_meters": 1000.0, "duration_seconds": 254.845, "avg_hr_bpm": 175.0, "max_hr_bpm": 193.0, "avg_cadence": 181.46875, "note": "rep 5 — 4:15/km, max HR of file" },
+      { "lap_number": 14, "distance_meters": 282.41, "duration_seconds": 101.564, "avg_hr_bpm": 183.0, "max_hr_bpm": 192.0, "note": "cooldown jog" },
+      { "lap_number": 15, "distance_meters": 38.45, "duration_seconds": 38.276, "avg_hr_bpm": 137.0, "max_hr_bpm": 155.0, "note": "cooldown walk" }
+    ]
+  }
+}

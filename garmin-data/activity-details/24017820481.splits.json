@@ -1,0 +1,17 @@
+{
+  "_fetched_at": "2026-08-18T20:28+04:00",
+  "data": {
+    "activity_id": 24017820481,
+    "prescribed": "3 km warmup + 4 × 1 km @ 4:55 (90 s jog) + 2 km cooldown",
+    "executed": "1 km warmup + 6 × 1 km @ 4:19–4:46 with jog recoveries (no formal cooldown)",
+    "reps_summary": [
+      { "rep": 1, "km_lap": 3,  "pace": "4:42", "hr_avg": 159, "hr_max": 173, "cad": 172.5 },
+      { "rep": 2, "km_lap": 6,  "pace": "4:43", "hr_avg": 163, "hr_max": 172, "cad": 173.9 },
+      { "rep": 3, "km_lap": 8,  "pace": "4:44", "hr_avg": 163, "hr_max": 183, "cad": 174.1 },
+      { "rep": 4, "km_lap": 11, "pace": "4:46", "hr_avg": 166, "hr_max": 177, "cad": 173.5 },
+      { "rep": 5, "km_lap": 14, "pace": "4:46", "hr_avg": 164, "hr_max": 181, "cad": 174.0 },
+      { "rep": 6, "km_lap": 17, "pace": "4:19", "hr_avg": 165, "hr_max": 183, "cad": 177.4 }
+    ],
+    "note": "Every rep was faster than the 4:55 ceiling. Rep 6 was 36 s/km faster. Two extra reps beyond prescription. Same failure mode as Aug 11 (5 × 1 km at 4:15–4:40). BUT: rep HRs 159–166 are inside the marathon-pace HR target of 155–162 despite paces of 4:19–4:46 — that ratio is a genuine fitness signal."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_fetched_at": "2026-09-06T21:45+04:00",
+  "data": {
+    "count": 2,
+    "activities": [
+      { "id": 24258175127, "type": "multi_sport", "duration_seconds": 22367.44 },
+      { "id": 24259944951, "type": "road_biking", "distance_meters": 90762.22 }
+    ]
+  }
+}

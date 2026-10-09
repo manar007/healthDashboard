@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-08-28T15:08+04:00",
+  "data": {
+    "id": 24146929057,
+    "name": "Zwift - The Long Ride",
+    "start_time_local": "2026-08-28T13:23:17.0",
+    "duration_seconds": 5262.0,
+    "distance_meters": 46050.32,
+    "avg_hr_bpm": 138.0,
+    "max_hr_bpm": 163.0,
+    "avg_power_watts": 181.0,
+    "normalized_power_watts": 195.0,
+    "max_power_watts": 310.0,
+    "training_effect": 3.5,
+    "anaerobic_training_effect": 0.0,
+    "training_effect_label": "AEROBIC_BASE",
+    "training_load": 136.8,
+    "z4_plus_seconds": 1332
+  }
+}

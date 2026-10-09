@@ -1,0 +1,33 @@
+{
+  "_fetched_at": "2026-08-15T13:19+04:00",
+  "data": {
+    "activity_id": 23981128854,
+    "lap_count": 23,
+    "notes": "1 km auto-laps. Rolling terrain: 185 m gain / 141 m loss, net +44 m.",
+    "laps": [
+      { "km": 1,  "sec": 381.1, "pace": "6:21", "hr_avg": 141, "hr_max": 167, "cad": 163.3, "gain": 6.4,  "loss": 2.3 },
+      { "km": 2,  "sec": 384.1, "pace": "6:24", "hr_avg": 140, "hr_max": 152, "cad": 162.7, "gain": 7.2,  "loss": 0.0 },
+      { "km": 3,  "sec": 340.9, "pace": "5:41", "hr_avg": 143, "hr_max": 152, "cad": 167.2, "gain": 0.0,  "loss": 8.5 },
+      { "km": 4,  "sec": 348.2, "pace": "5:48", "hr_avg": 150, "hr_max": 158, "cad": 168.5, "gain": 7.0,  "loss": 0.0 },
+      { "km": 5,  "sec": 369.8, "pace": "6:10", "hr_avg": 153, "hr_max": 164, "cad": 168.7, "gain": 23.1, "loss": 0.0 },
+      { "km": 6,  "sec": 362.1, "pace": "6:02", "hr_avg": 155, "hr_max": 160, "cad": 168.7, "gain": 16.4, "loss": 0.0 },
+      { "km": 7,  "sec": 358.4, "pace": "5:58", "hr_avg": 144, "hr_max": 158, "cad": 165.5, "gain": 4.3,  "loss": 18.9 },
+      { "km": 8,  "sec": 370.8, "pace": "6:11", "hr_avg": 147, "hr_max": 156, "cad": 168.6, "gain": 19.8, "loss": 0.0 },
+      { "km": 9,  "sec": 378.3, "pace": "6:18", "hr_avg": 144, "hr_max": 151, "cad": 165.5, "gain": 9.4,  "loss": 1.4 },
+      { "km": 10, "sec": 362.9, "pace": "6:03", "hr_avg": 146, "hr_max": 151, "cad": 167.7, "gain": 10.5, "loss": 0.0 },
+      { "km": 11, "sec": 369.8, "pace": "6:10", "hr_avg": 145, "hr_max": 150, "cad": 168.8, "gain": 13.4, "loss": 0.0 },
+      { "km": 12, "sec": 365.1, "pace": "6:05", "hr_avg": 149, "hr_max": 155, "cad": 171.9, "gain": 10.6, "loss": 0.0 },
+      { "km": 13, "sec": 379.5, "pace": "6:19", "hr_avg": 150, "hr_max": 162, "cad": 164.7, "gain": 16.7, "loss": 7.2 },
+      { "km": 14, "sec": 340.0, "pace": "5:40", "hr_avg": 145, "hr_max": 159, "cad": 170.8, "gain": 0.0,  "loss": 12.1 },
+      { "km": 15, "sec": 346.1, "pace": "5:46", "hr_avg": 146, "hr_max": 153, "cad": 168.8, "gain": 0.0,  "loss": 13.5 },
+      { "km": 16, "sec": 332.6, "pace": "5:33", "hr_avg": 153, "hr_max": 166, "cad": 168.7, "gain": 9.5,  "loss": 3.7 },
+      { "km": 17, "sec": 355.4, "pace": "5:55", "hr_avg": 158, "hr_max": 166, "cad": 170.9, "gain": 10.5, "loss": 0.0 },
+      { "km": 18, "sec": 364.9, "pace": "6:05", "hr_avg": 149, "hr_max": 153, "cad": 167.3, "gain": 8.2,  "loss": 2.1 },
+      { "km": 19, "sec": 346.2, "pace": "5:47", "hr_avg": 149, "hr_max": 155, "cad": 169.9, "gain": 0.0,  "loss": 15.5 },
+      { "km": 20, "sec": 339.6, "pace": "5:40", "hr_avg": 153, "hr_max": 158, "cad": 171.8, "gain": 0.0,  "loss": 14.4 },
+      { "km": 21, "sec": 387.1, "pace": "6:27", "hr_avg": 155, "hr_max": 173, "cad": 167.6, "gain": 11.1, "loss": 3.8, "note": "gel/fluid stop, 3:40 elapsed pause after" },
+      { "km": 22, "sec": 351.2, "pace": "5:51", "hr_avg": 150, "hr_max": 156, "cad": 166.2, "gain": 0.0,  "loss": 35.1 },
+      { "km": 23, "sec": 4.2,   "pace": "—",    "hr_avg": 153, "hr_max": 153, "cad": 168.0, "note": "12 m tail" }
+    ]
+  }
+}

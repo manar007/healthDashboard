@@ -1,0 +1,16 @@
+{
+  "_fetched_at": "2026-09-25T10:05+04:00",
+  "data": {
+    "count": 1,
+    "activities": [
+      {
+        "id": 24489417843,
+        "distance_meters": 8136.25,
+        "avg_hr_bpm": 135,
+        "max_hr_bpm": 159,
+        "training_load": 70.4,
+        "training_effect_label": "AEROBIC_BASE"
+      }
+    ]
+  }
+}

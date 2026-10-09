@@ -1,0 +1,26 @@
+{
+  "data": {
+    "count": 1,
+    "page": 0,
+    "page_size": 100,
+    "has_more": false,
+    "date_range": { "start": "2026-08-14", "end": "2026-08-14" },
+    "activities": [
+      {
+        "id": 23969706949,
+        "name": "Running",
+        "type": "running",
+        "event_type": "uncategorized",
+        "start_time": "2026-08-14 07:36:13",
+        "distance_meters": 10070.5,
+        "duration_seconds": 3754.43994140625,
+        "calories": 756.0,
+        "avg_hr_bpm": 144.0,
+        "max_hr_bpm": 166.0,
+        "steps": 10292,
+        "elevation_gain_meters": 44.589999973773956,
+        "elevation_loss_meters": 43.55000001192093
+      }
+    ]
+  }
+}

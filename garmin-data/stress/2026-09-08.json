@@ -1,0 +1,13 @@
+{
+  "_fetched_at": "2026-09-08T09:38+04:00",
+  "data": {
+    "date": "2026-09-08",
+    "max_stress_level": 41,
+    "avg_stress_level": 15,
+    "rest_percent": 95.1,
+    "low_stress_percent": 4.9,
+    "medium_stress_percent": 0.0,
+    "high_stress_percent": 0.0,
+    "data_points_count": 183
+  }
+}

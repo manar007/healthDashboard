@@ -1,0 +1,27 @@
+{
+  "_fetched_at": "2026-08-25T22:36+04:00",
+  "data": {
+    "id": 24104931829,
+    "name": "Running",
+    "type": "running",
+    "start_time_local": "2026-08-25T07:05:10.0",
+    "duration_seconds": 2704.261,
+    "distance_meters": 7434.94,
+    "avg_hr_bpm": 143.0,
+    "max_hr_bpm": 176.0,
+    "avg_cadence": 157.75,
+    "max_cadence": 179.0,
+    "training_effect": 3.2,
+    "anaerobic_training_effect": 0.3,
+    "training_effect_label": "TEMPO",
+    "training_load": 106.0,
+    "max_elevation_meters": 1251.0,
+    "recovery_hr_bpm": 23,
+    "reps": [
+      { "rep": 1, "pace": "4:52", "avg_hr": 158, "max_hr": 167, "cadence": 168 },
+      { "rep": 2, "pace": "4:48", "avg_hr": 159, "max_hr": 174, "cadence": 170 },
+      { "rep": 3, "pace": "4:48", "avg_hr": 160, "max_hr": 170, "cadence": 170 },
+      { "rep": 4, "pace": "4:50", "avg_hr": 165, "max_hr": 176, "cadence": 174 }
+    ]
+  }
+}

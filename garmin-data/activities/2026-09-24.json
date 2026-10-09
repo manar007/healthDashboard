@@ -1,0 +1,11 @@
+{
+  "_fetched_at": "2026-09-24T08:59+04:00",
+  "data": {
+    "count": 3,
+    "activities": [
+      {"id": 24477086485, "name": "warmup", "distance_meters": 1833, "avg_hr_bpm": 139},
+      {"id": 24477221577, "name": "threshold", "distance_meters": 6304, "avg_hr_bpm": 165, "max_hr_bpm": 180, "training_load": 159},
+      {"id": 24477281347, "name": "cooldown", "distance_meters": 1727, "avg_hr_bpm": 142}
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fetched_at": "2026-09-30T10:48+04:00",
+  "data": {
+    "count": 2,
+    "activities": [
+      {
+        "id": 24550196302,
+        "name": "warmup",
+        "distance_meters": 1783,
+        "avg_hr_bpm": 116,
+        "max_hr_bpm": 134,
+        "duration_seconds": 842.5
+      },
+      {
+        "id": 24550201152,
+        "name": "Running",
+        "distance_meters": 12449,
+        "avg_hr_bpm": 165,
+        "max_hr_bpm": 180,
+        "training_load": 227.6,
+        "training_effect_label": "VO2MAX",
+        "elevation_gain_meters": 28.4
+      }
+    ]
+  }
+}

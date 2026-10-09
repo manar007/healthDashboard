@@ -1,0 +1,20 @@
+{
+  "_fetched_at": "2026-09-18T10:44+04:00",
+  "data": {
+    "count": 1,
+    "activities": [
+      {
+        "id": 24403947938,
+        "name": "Road Cycling",
+        "type": "road_biking",
+        "start_time": "2026-09-18 07:35:52",
+        "distance_meters": 29198.95,
+        "duration_seconds": 5719.65,
+        "calories": 676.0,
+        "avg_hr_bpm": 120.0,
+        "max_hr_bpm": 146.0,
+        "elevation_gain_meters": 231.0
+      }
+    ]
+  }
+}

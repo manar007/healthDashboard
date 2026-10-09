@@ -1,0 +1,23 @@
+{
+  "_fetched_at": "2026-08-23T16:55+04:00",
+  "data": {
+    "activity_id": 24083800620,
+    "note": "5 km laps",
+    "laps": [
+      { "lap": 1, "km": 5, "min": "11:02", "avg_hr": 140, "max_hr": 166, "watts": 130 },
+      { "lap": 2, "km": 5, "min": "8:23", "avg_hr": 155, "max_hr": 163, "watts": 148 },
+      { "lap": 3, "km": 5, "min": "9:11", "avg_hr": 158, "max_hr": 177, "watts": 169 },
+      { "lap": 4, "km": 5, "min": "9:20", "avg_hr": 160, "max_hr": 177, "watts": 162 },
+      { "lap": 5, "km": 5, "min": "9:19", "avg_hr": 159, "max_hr": 166, "watts": 154 },
+      { "lap": 6, "km": 5, "min": "10:04", "avg_hr": 146, "max_hr": 159, "watts": 127, "note": "~13 min stop in elapsed" },
+      { "lap": 7, "km": 5, "min": "10:45", "avg_hr": 148, "max_hr": 157, "watts": 139 },
+      { "lap": 8, "km": 5, "min": "9:31", "avg_hr": 143, "max_hr": 156, "watts": 116 },
+      { "lap": 9, "km": 5, "min": "10:14", "avg_hr": 147, "max_hr": 161, "watts": 119 },
+      { "lap": 10, "km": 5, "min": "10:30", "avg_hr": 153, "max_hr": 163, "watts": 130 },
+      { "lap": 11, "km": 5, "min": "10:36", "avg_hr": 150, "max_hr": 164, "watts": 96 },
+      { "lap": 12, "km": 5, "min": "12:03", "avg_hr": 148, "max_hr": 167, "watts": 97 },
+      { "lap": 13, "km": 5, "min": "11:23", "avg_hr": 154, "max_hr": 163, "watts": 138 },
+      { "lap": 14, "km": 5, "min": "12:36", "avg_hr": 150, "max_hr": 164, "watts": 106 }
+    ]
+  }
+}

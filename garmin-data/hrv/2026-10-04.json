@@ -1,0 +1,10 @@
+{
+  "_fetched_at": "2026-10-04T10:55+04:00",
+  "data": {
+    "date": "2026-10-04",
+    "last_night_avg_hrv_ms": 47,
+    "last_night_5min_high_hrv_ms": 70,
+    "weekly_avg_hrv_ms": 44,
+    "status": "BALANCED"
+  }
+}

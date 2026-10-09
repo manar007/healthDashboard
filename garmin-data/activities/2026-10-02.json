@@ -1,0 +1,17 @@
+{
+  "_fetched_at": "2026-10-03T12:26+04:00",
+  "data": {
+    "count": 1,
+    "activities": [
+      {
+        "id": 24574330181,
+        "name": "Strength",
+        "type": "strength_training",
+        "start_time": "2026-10-02 09:12:50",
+        "duration_seconds": 1080.5,
+        "avg_hr_bpm": 99,
+        "max_hr_bpm": 124
+      }
+    ]
+  }
+}

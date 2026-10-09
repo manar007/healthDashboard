@@ -1,0 +1,18 @@
+{
+  "_fetched_at": "2026-08-23T16:55+04:00",
+  "data": {
+    "id": 24083941448,
+    "name": "Running",
+    "type": "running",
+    "start_time_local": "2026-08-23T15:27:19.0",
+    "duration_seconds": 576.558,
+    "distance_meters": 1253.35,
+    "avg_hr_bpm": 161.0,
+    "max_hr_bpm": 172.0,
+    "avg_cadence": 143.6,
+    "avg_stride_length_cm": 91.23,
+    "training_effect": 2.0,
+    "training_effect_label": "TEMPO",
+    "training_load": 28.4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fetched_at": "2026-08-30T19:44+04:00",
+  "data": {
+    "id": 24167506642,
+    "name": "Running",
+    "start_time_local": "2026-08-30T09:58:15.0",
+    "duration_seconds": 2025.798,
+    "distance_meters": 5007.21,
+    "avg_hr_bpm": 146.0,
+    "max_hr_bpm": 162.0,
+    "avg_cadence": 162.75,
+    "avg_stride_length_cm": 91.19,
+    "training_effect": 2.5,
+    "anaerobic_training_effect": 0.0,
+    "training_load": 55.1
+  }
+}

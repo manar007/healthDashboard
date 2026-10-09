@@ -1,0 +1,32 @@
+{
+  "_fetched_at": "2026-09-09T19:56+04:00",
+  "data": {
+    "id": 24279621609,
+    "name": "Strength",
+    "type": "strength_training",
+    "event_type": "uncategorized",
+    "parent_type": 29,
+    "start_time_local": "2026-09-08T09:38:44.0",
+    "start_time_gmt": "2026-09-08T05:38:44.0",
+    "duration_seconds": 1824.824,
+    "moving_duration_seconds": 1824.824,
+    "elapsed_duration_seconds": 1824.824,
+    "distance_meters": 0.0,
+    "avg_speed_mps": 0.0,
+    "avg_hr_bpm": 81.0,
+    "max_hr_bpm": 118.0,
+    "min_hr_bpm": 52.0,
+    "calories": 102.0,
+    "bmr_calories": 44.0,
+    "steps": 14,
+    "training_effect": 0.10000000149011612,
+    "anaerobic_training_effect": 0.0,
+    "training_effect_label": "UNKNOWN",
+    "training_load": 2.0526123046875,
+    "moderate_intensity_minutes": 4,
+    "vigorous_intensity_minutes": 0,
+    "lap_count": 1,
+    "has_splits": false,
+    "device_manufacturer": "GARMIN"
+  }
+}
