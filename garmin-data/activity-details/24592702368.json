@@ -1,0 +1,127 @@
+{
+  "_fetched_at": "2026-10-09T17:09:42.064088+00:00",
+  "data": {
+    "activityId": 24592702368,
+    "activityUUID": {
+      "uuid": "3eff9544-e632-4750-8676-4234c2575a6e"
+    },
+    "activityName": "Strength",
+    "userProfileId": 84363772,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+      "typeId": 13,
+      "typeKey": "strength_training",
+      "parentTypeId": 29,
+      "isHidden": false,
+      "restricted": false,
+      "trimmable": false
+    },
+    "eventTypeDTO": {
+      "typeId": 9,
+      "typeKey": "uncategorized",
+      "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+      "typeId": 2,
+      "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+      "unitId": 128,
+      "unitKey": "Asia/Yerevan",
+      "factor": 0.0,
+      "timeZone": "Asia/Yerevan"
+    },
+    "metadataDTO": {
+      "isOriginal": true,
+      "deviceApplicationInstallationId": 992088,
+      "agentApplicationInstallationId": null,
+      "agentString": null,
+      "fileFormat": {
+        "formatId": 7,
+        "formatKey": "fit"
+      },
+      "associatedCourseId": null,
+      "lastUpdateDate": "2026-10-03T16:01:31.0",
+      "uploadedDate": "2026-10-03T16:01:31.0",
+      "videoUrl": null,
+      "hasPolyline": false,
+      "hasChartData": true,
+      "hasHrTimeInZones": true,
+      "hasPowerTimeInZones": false,
+      "userInfoDto": {
+        "userProfilePk": 84363772,
+        "displayname": "473b2d4b-69df-4ab8-9ae4-032313fa3829",
+        "fullname": "Narek",
+        "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/493a47fd-04ed-4ea1-b3e0-39452a370878-84363772.png",
+        "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/7ee4f917-2566-4f3e-a690-f00eed6ec02f-84363772.png",
+        "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/4e7f0ff0-be4d-4d44-a8ad-f44a71b122e1-84363772.png",
+        "userPro": false
+      },
+      "childIds": [],
+      "childActivityTypes": [],
+      "sensors": null,
+      "activityImages": [],
+      "manufacturer": "GARMIN",
+      "diveNumber": null,
+      "lapCount": 1,
+      "associatedWorkoutId": null,
+      "isAtpActivity": null,
+      "deviceMetaDataDTO": {
+        "deviceId": "3383623562",
+        "deviceTypePk": 36676,
+        "deviceVersionPk": 992088
+      },
+      "hasIntensityIntervals": false,
+      "hasSplits": false,
+      "eBikeMaxAssistModes": null,
+      "eBikeBatteryUsage": null,
+      "eBikeBatteryRemaining": null,
+      "eBikeAssistModeInfoDTOList": null,
+      "hasRunPowerWindData": null,
+      "calendarEventInfo": null,
+      "groupRideUUID": null,
+      "hasHeatMap": false,
+      "sessionResultType": "ORIGINAL",
+      "hasMultiDayActivities": false,
+      "personalRecord": false,
+      "gcj02": false,
+      "runPowerWindDataEnabled": null,
+      "manualActivity": false,
+      "elevationCorrected": false,
+      "trimmed": false,
+      "autoCalcCalories": false,
+      "favorite": false
+    },
+    "summaryDTO": {
+      "startTimeLocal": "2026-10-03T19:21:19.0",
+      "startTimeGMT": "2026-10-03T15:21:19.0",
+      "distance": 0.0,
+      "duration": 2383.978,
+      "movingDuration": 2383.978,
+      "elapsedDuration": 2383.978,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 0.0,
+      "calories": 116.0,
+      "bmrCalories": 57.0,
+      "averageHR": 78.0,
+      "maxHR": 117.0,
+      "minHR": 59.0,
+      "averageTemperature": 30.174496644295303,
+      "maxTemperature": 31.0,
+      "minTemperature": 29.0,
+      "trainingEffect": 0.20000000298023224,
+      "anaerobicTrainingEffect": 0.0,
+      "aerobicTrainingEffectMessage": "NO_AEROBIC_BENEFIT_18",
+      "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+      "totalExerciseReps": 9,
+      "activeSets": 1,
+      "waterEstimated": 321.0,
+      "trainingEffectLabel": "UNKNOWN",
+      "activityTrainingLoad": 2.615081787109375,
+      "minActivityLapDuration": 2383.978,
+      "moderateIntensityMinutes": 7,
+      "vigorousIntensityMinutes": 0,
+      "steps": 18
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_fetched_at": "2026-10-12T06:13:10.278325+00:00",
+  "data": {
+    "activityId": 24692957139,
+    "lapDTOs": [
+      {
+        "startTimeGMT": "2026-10-12T05:43:51.0",
+        "distance": 0.0,
+        "duration": 1278.047,
+        "movingDuration": 1278.047,
+        "elapsedDuration": 1421.342,
+        "averageSpeed": 0.0,
+        "averageMovingSpeed": 0.0,
+        "calories": 79.0,
+        "bmrCalories": 31.0,
+        "averageHR": 83.0,
+        "maxHR": 112.0,
+        "averageTemperature": 27.64659890539484,
+        "maxTemperature": 29.0,
+        "minTemperature": 25.0,
+        "trainingEffect": 0.10000000149011612,
+        "waterEstimated": 177.0,
+        "lapIndex": 1,
+        "lengthDTOs": [],
+        "connectIQMeasurement": []
+      }
+    ],
+    "eventDTOs": [
+      {
+        "startTimeGMT": "2026-10-12T05:43:50.0",
+        "startTimeGMTDoubleValue": 1791783830000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-12T05:43:51.0",
+        "startTimeGMTDoubleValue": 1791783831000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-12T05:45:17.0",
+        "startTimeGMTDoubleValue": 1791783917000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-12T05:47:40.0",
+        "startTimeGMTDoubleValue": 1791784060000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-12T06:07:33.0",
+        "startTimeGMTDoubleValue": 1791785253000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      }
+    ]
+  }
+}
