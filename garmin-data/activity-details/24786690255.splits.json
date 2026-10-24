@@ -1,0 +1,582 @@
+{
+  "_fetched_at": "2026-10-20T06:08:31.149349+00:00",
+  "data": {
+    "activityId": 24786690255,
+    "lapDTOs": [
+      {
+        "startTimeGMT": "2026-10-20T04:49:26.0",
+        "startLatitude": 40.18568627536297,
+        "startLongitude": 44.49827352538705,
+        "distance": 1000.0,
+        "duration": 411.16,
+        "movingDuration": 377.0,
+        "elapsedDuration": 411.16,
+        "elevationGain": 15.05,
+        "elevationLoss": 2.08,
+        "maxElevation": 972.4,
+        "minElevation": 958.4,
+        "averageSpeed": 2.431999921798706,
+        "averageMovingSpeed": 2.6525198938992043,
+        "maxSpeed": 3.125999927520752,
+        "calories": 78.0,
+        "bmrCalories": 10.0,
+        "averageHR": 128.0,
+        "maxHR": 150.0,
+        "averageRunCadence": 148.875,
+        "maxRunCadence": 172.0,
+        "averageTemperature": 25.0,
+        "maxTemperature": 29.0,
+        "minTemperature": 23.0,
+        "strideLength": 98.02088394677423,
+        "endLatitude": 40.1894217543304,
+        "endLongitude": 44.4953525159508,
+        "maxVerticalSpeed": 0.20001220703125003,
+        "maxRespirationRate": 34.029998779296875,
+        "avgRespirationRate": 27.200000762939453,
+        "lapIndex": 1,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 0
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:56:18.0",
+        "startLatitude": 40.18940725363791,
+        "startLongitude": 44.49532125145197,
+        "distance": 1000.0,
+        "duration": 393.446,
+        "movingDuration": 393.446,
+        "elapsedDuration": 393.446,
+        "elevationGain": 6.3,
+        "elevationLoss": 0.0,
+        "maxElevation": 979.0,
+        "minElevation": 971.8,
+        "averageSpeed": 2.5420000553131104,
+        "averageMovingSpeed": 2.5416447578305394,
+        "maxSpeed": 2.7060000896453853,
+        "calories": 73.0,
+        "bmrCalories": 9.0,
+        "averageHR": 134.0,
+        "maxHR": 141.0,
+        "averageRunCadence": 164.1875,
+        "maxRunCadence": 168.0,
+        "averageTemperature": 22.0,
+        "maxTemperature": 23.0,
+        "minTemperature": 21.0,
+        "strideLength": 92.88081338094091,
+        "endLatitude": 40.19156224094331,
+        "endLongitude": 44.485012935474515,
+        "maxVerticalSpeed": 0.20001220703125003,
+        "maxRespirationRate": 34.630001068115234,
+        "avgRespirationRate": 30.389999389648438,
+        "lapIndex": 2,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 1
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:02:52.0",
+        "startLatitude": 40.19155913963914,
+        "startLongitude": 44.48498929850757,
+        "distance": 1000.0,
+        "duration": 409.342,
+        "movingDuration": 409.0,
+        "elapsedDuration": 409.342,
+        "elevationGain": 17.8,
+        "elevationLoss": 0.0,
+        "maxElevation": 996.2,
+        "minElevation": 979.0,
+        "averageSpeed": 2.443000078201294,
+        "averageMovingSpeed": 2.444987775061125,
+        "maxSpeed": 2.7060000896453853,
+        "calories": 78.0,
+        "bmrCalories": 10.0,
+        "averageHR": 131.0,
+        "maxHR": 139.0,
+        "averageRunCadence": 161.90625,
+        "maxRunCadence": 168.0,
+        "averageTemperature": 20.0,
+        "maxTemperature": 21.0,
+        "minTemperature": 19.0,
+        "strideLength": 90.53183393824257,
+        "endLatitude": 40.19694392569363,
+        "endLongitude": 44.48410391807556,
+        "maxVerticalSpeed": 0.20001220703125003,
+        "maxRespirationRate": 37.34000015258789,
+        "avgRespirationRate": 33.11000061035156,
+        "lapIndex": 3,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 2
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:09:42.0",
+        "startLatitude": 40.19696395844221,
+        "startLongitude": 44.48410274460912,
+        "distance": 1000.0,
+        "duration": 375.602,
+        "movingDuration": 347.0,
+        "elapsedDuration": 375.602,
+        "elevationGain": 4.87,
+        "elevationLoss": 6.45,
+        "maxElevation": 1001.0,
+        "minElevation": 992.8,
+        "averageSpeed": 2.661999940872192,
+        "averageMovingSpeed": 2.881844380403458,
+        "maxSpeed": 3.4240000247955327,
+        "calories": 73.0,
+        "bmrCalories": 9.0,
+        "averageHR": 136.0,
+        "maxHR": 151.0,
+        "averageRunCadence": 152.375,
+        "maxRunCadence": 175.0,
+        "averageTemperature": 20.0,
+        "maxTemperature": 20.0,
+        "minTemperature": 19.0,
+        "strideLength": 104.83580817194232,
+        "endLatitude": 40.194584839046,
+        "endLongitude": 44.48148859664798,
+        "maxVerticalSpeed": 0.199951171875,
+        "maxRespirationRate": 36.02000045776367,
+        "avgRespirationRate": 30.420000076293945,
+        "lapIndex": 4,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 3
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:15:57.0",
+        "startLatitude": 40.194569835439324,
+        "startLongitude": 44.48146462440491,
+        "distance": 1000.0,
+        "duration": 343.171,
+        "movingDuration": 343.0,
+        "elapsedDuration": 343.171,
+        "elevationGain": 0.0,
+        "elevationLoss": 9.96,
+        "maxElevation": 993.0,
+        "minElevation": 983.0,
+        "averageSpeed": 2.914000034332275,
+        "averageMovingSpeed": 2.9154518950437316,
+        "maxSpeed": 3.38700008392334,
+        "calories": 74.0,
+        "bmrCalories": 8.0,
+        "averageHR": 146.0,
+        "maxHR": 157.0,
+        "averageRunCadence": 167.796875,
+        "maxRunCadence": 175.0,
+        "averageTemperature": 20.0,
+        "maxTemperature": 20.0,
+        "minTemperature": 19.0,
+        "strideLength": 104.19738370983684,
+        "endLatitude": 40.19043110311031,
+        "endLongitude": 44.489412596449256,
+        "maxVerticalSpeed": 0.04000244140625,
+        "maxRespirationRate": 42.33000183105469,
+        "avgRespirationRate": 29.440000534057617,
+        "lapIndex": 5,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 4
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:21:40.0",
+        "startLatitude": 40.19042741507292,
+        "startLongitude": 44.48944604024291,
+        "distance": 1000.0,
+        "duration": 356.422,
+        "movingDuration": 356.422,
+        "elapsedDuration": 356.422,
+        "elevationGain": 2.46,
+        "elevationLoss": 10.34,
+        "maxElevation": 982.6,
+        "minElevation": 973.8,
+        "averageSpeed": 2.8059999942779537,
+        "averageMovingSpeed": 2.8056629731602305,
+        "maxSpeed": 3.134999990463257,
+        "calories": 72.0,
+        "bmrCalories": 9.0,
+        "averageHR": 141.0,
+        "maxHR": 149.0,
+        "averageRunCadence": 167.796875,
+        "maxRunCadence": 172.0,
+        "averageTemperature": 20.0,
+        "maxTemperature": 20.0,
+        "minTemperature": 19.0,
+        "strideLength": 100.32354797406914,
+        "endLatitude": 40.18922410905361,
+        "endLongitude": 44.499137783423066,
+        "maxVerticalSpeed": 0.20001220703125003,
+        "maxRespirationRate": 32.90999984741211,
+        "avgRespirationRate": 26.6200008392334,
+        "lapIndex": 6,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 5
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:27:37.0",
+        "startLatitude": 40.18923291005194,
+        "startLongitude": 44.49916913174093,
+        "distance": 500.05,
+        "duration": 150.766,
+        "movingDuration": 150.766,
+        "elapsedDuration": 150.766,
+        "elevationGain": 0.0,
+        "elevationLoss": 9.2,
+        "maxElevation": 976.8,
+        "minElevation": 965.6,
+        "averageSpeed": 3.316999912261963,
+        "averageMovingSpeed": 3.316729012739205,
+        "maxSpeed": 4.0960001945495605,
+        "calories": 33.0,
+        "bmrCalories": 4.0,
+        "averageHR": 148.0,
+        "maxHR": 161.0,
+        "averageRunCadence": 169.734375,
+        "maxRunCadence": 181.0,
+        "averageTemperature": 19.0,
+        "maxTemperature": 20.0,
+        "minTemperature": 19.0,
+        "strideLength": 117.24421806976477,
+        "endLatitude": 40.186317851766944,
+        "endLongitude": 44.4989978056401,
+        "maxVerticalSpeed": 0.06667073567708333,
+        "maxRespirationRate": 34.880001068115234,
+        "avgRespirationRate": 28.309999465942383,
+        "lapIndex": 7,
+        "wktStepIndex": 0,
+        "lengthDTOs": [],
+        "wktIndex": 0,
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 6
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:30:08.0",
+        "startLatitude": 40.18630930222571,
+        "startLongitude": 44.49895430356264,
+        "distance": 99.96,
+        "duration": 38.747,
+        "movingDuration": 37.0,
+        "elapsedDuration": 38.747,
+        "elevationGain": 0.0,
+        "elevationLoss": 1.1,
+        "maxElevation": 965.4,
+        "minElevation": 964.6,
+        "averageSpeed": 2.5799999237060547,
+        "averageMovingSpeed": 2.701621596877639,
+        "maxSpeed": 3.4709999561309814,
+        "calories": 9.0,
+        "bmrCalories": 1.0,
+        "averageHR": 152.0,
+        "maxHR": 161.0,
+        "averageRunCadence": 165.453125,
+        "maxRunCadence": 170.0,
+        "averageTemperature": 19.0,
+        "maxTemperature": 19.0,
+        "minTemperature": 18.0,
+        "strideLength": 93.55444319247131,
+        "endLatitude": 40.18582331947982,
+        "endLongitude": 44.498079819604754,
+        "maxVerticalSpeed": 0.0,
+        "maxRespirationRate": 35.54999923706055,
+        "avgRespirationRate": 34.09000015258789,
+        "lapIndex": 8,
+        "lengthDTOs": [],
+        "connectIQMeasurement": [],
+        "intensityType": "ACTIVE",
+        "messageIndex": 7
+      }
+    ],
+    "eventDTOs": [
+      {
+        "startTimeGMT": "2026-10-20T04:49:25.0",
+        "startTimeGMTDoubleValue": 1792471765000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:49:25.0",
+        "startTimeGMTDoubleValue": 1792471765000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:49:25.0",
+        "startTimeGMTDoubleValue": 1792471765000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:49:26.0",
+        "startTimeGMTDoubleValue": 1792471766000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:49:56.0",
+        "startTimeGMTDoubleValue": 1792471796000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:50:30.0",
+        "startTimeGMTDoubleValue": 1792471830000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:51:10.0",
+        "startTimeGMTDoubleValue": 1792471870000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:51:55.0",
+        "startTimeGMTDoubleValue": 1792471915000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:52:50.0",
+        "startTimeGMTDoubleValue": 1792471970000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:53:29.0",
+        "startTimeGMTDoubleValue": 1792472009000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:54:45.0",
+        "startTimeGMTDoubleValue": 1792472085000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:57:25.0",
+        "startTimeGMTDoubleValue": 1792472245000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:57:30.0",
+        "startTimeGMTDoubleValue": 1792472250000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:57:38.0",
+        "startTimeGMTDoubleValue": 1792472258000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T04:57:43.0",
+        "startTimeGMTDoubleValue": 1792472263000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:12:35.0",
+        "startTimeGMTDoubleValue": 1792473155000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:12:44.0",
+        "startTimeGMTDoubleValue": 1792473164000.0,
+        "sectionTypeDTO": {
+          "id": 9,
+          "key": "hrLowAlert",
+          "sectionTypeKey": "HR_LOW_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:13:30.0",
+        "startTimeGMTDoubleValue": 1792473210000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:16:26.0",
+        "startTimeGMTDoubleValue": 1792473386000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:18:22.0",
+        "startTimeGMTDoubleValue": 1792473502000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:18:35.0",
+        "startTimeGMTDoubleValue": 1792473515000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:18:40.0",
+        "startTimeGMTDoubleValue": 1792473520000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:19:24.0",
+        "startTimeGMTDoubleValue": 1792473564000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:22:09.0",
+        "startTimeGMTDoubleValue": 1792473729000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:23:27.0",
+        "startTimeGMTDoubleValue": 1792473807000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:25:06.0",
+        "startTimeGMTDoubleValue": 1792473906000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:25:34.0",
+        "startTimeGMTDoubleValue": 1792473934000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:25:46.0",
+        "startTimeGMTDoubleValue": 1792473946000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:28:06.0",
+        "startTimeGMTDoubleValue": 1792474086000.0,
+        "sectionTypeDTO": {
+          "id": 8,
+          "key": "hrHighAlert",
+          "sectionTypeKey": "HR_HIGH_ALERT"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-20T05:30:45.0",
+        "startTimeGMTDoubleValue": 1792474245000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      }
+    ]
+  }
+}
