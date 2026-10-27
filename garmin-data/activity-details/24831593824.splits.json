@@ -1,0 +1,78 @@
+{
+  "_fetched_at": "2026-10-25T05:27:39.792385+00:00",
+  "data": {
+    "activityId": 24831593824,
+    "lapDTOs": [
+      {
+        "startTimeGMT": "2026-10-24T06:05:46.0",
+        "distance": 0.0,
+        "duration": 741.701,
+        "movingDuration": 741.701,
+        "elapsedDuration": 835.546,
+        "averageSpeed": 0.0,
+        "averageMovingSpeed": 0.0,
+        "calories": 58.0,
+        "bmrCalories": 18.0,
+        "averageHR": 102.0,
+        "maxHR": 117.0,
+        "averageTemperature": 23.587601078167115,
+        "maxTemperature": 26.0,
+        "minTemperature": 18.0,
+        "trainingEffect": 0.20000000298023224,
+        "waterEstimated": 95.0,
+        "maxRespirationRate": 27.299999237060547,
+        "avgRespirationRate": 21.209999084472656,
+        "lapIndex": 1,
+        "lengthDTOs": [],
+        "connectIQMeasurement": []
+      }
+    ],
+    "eventDTOs": [
+      {
+        "startTimeGMT": "2026-10-24T06:05:45.0",
+        "startTimeGMTDoubleValue": 1792821945000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-24T06:05:46.0",
+        "startTimeGMTDoubleValue": 1792821946000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-24T06:15:31.0",
+        "startTimeGMTDoubleValue": 1792822531000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-24T06:17:05.0",
+        "startTimeGMTDoubleValue": 1792822625000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-24T06:19:42.0",
+        "startTimeGMTDoubleValue": 1792822782000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      }
+    ]
+  }
+}

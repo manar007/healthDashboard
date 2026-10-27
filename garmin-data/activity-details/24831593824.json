@@ -1,0 +1,142 @@
+{
+  "_fetched_at": "2026-10-25T05:27:39.744725+00:00",
+  "data": {
+    "activityId": 24831593824,
+    "activityUUID": {
+      "uuid": "5415a759-fd98-43be-8e8d-1ed0239af49a"
+    },
+    "activityName": "Strength",
+    "userProfileId": 84363772,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+      "typeId": 13,
+      "typeKey": "strength_training",
+      "parentTypeId": 29,
+      "isHidden": false,
+      "restricted": false,
+      "trimmable": false
+    },
+    "eventTypeDTO": {
+      "typeId": 9,
+      "typeKey": "uncategorized",
+      "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+      "typeId": 2,
+      "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+      "unitId": 128,
+      "unitKey": "Asia/Yerevan",
+      "factor": 0.0,
+      "timeZone": "Asia/Yerevan"
+    },
+    "metadataDTO": {
+      "isOriginal": true,
+      "deviceApplicationInstallationId": 992088,
+      "agentApplicationInstallationId": null,
+      "agentString": null,
+      "fileFormat": {
+        "formatId": 7,
+        "formatKey": "fit"
+      },
+      "associatedCourseId": null,
+      "lastUpdateDate": "2026-10-24T06:20:00.0",
+      "uploadedDate": "2026-10-24T06:19:59.0",
+      "videoUrl": null,
+      "hasPolyline": false,
+      "hasChartData": true,
+      "hasHrTimeInZones": true,
+      "hasPowerTimeInZones": false,
+      "userInfoDto": {
+        "userProfilePk": 84363772,
+        "displayname": "473b2d4b-69df-4ab8-9ae4-032313fa3829",
+        "fullname": "Narek",
+        "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/493a47fd-04ed-4ea1-b3e0-39452a370878-84363772.png",
+        "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/7ee4f917-2566-4f3e-a690-f00eed6ec02f-84363772.png",
+        "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/4e7f0ff0-be4d-4d44-a8ad-f44a71b122e1-84363772.png",
+        "userPro": false
+      },
+      "childIds": [],
+      "childActivityTypes": [],
+      "sensors": [
+        {
+          "manufacturer": "GARMIN",
+          "serialNumber": 3471232335,
+          "sku": "006-B3299-00",
+          "fitProductNumber": 3299,
+          "sourceType": "ANTPLUS",
+          "antplusDeviceType": "HEART_RATE",
+          "softwareVersion": 2.5,
+          "batteryStatus": "OK"
+        }
+      ],
+      "activityImages": [],
+      "manufacturer": "GARMIN",
+      "diveNumber": null,
+      "lapCount": 1,
+      "associatedWorkoutId": null,
+      "isAtpActivity": null,
+      "deviceMetaDataDTO": {
+        "deviceId": "3383623562",
+        "deviceTypePk": 36676,
+        "deviceVersionPk": 992088
+      },
+      "hasIntensityIntervals": false,
+      "hasSplits": false,
+      "eBikeMaxAssistModes": null,
+      "eBikeBatteryUsage": null,
+      "eBikeBatteryRemaining": null,
+      "eBikeAssistModeInfoDTOList": null,
+      "hasRunPowerWindData": null,
+      "calendarEventInfo": null,
+      "groupRideUUID": null,
+      "hasHeatMap": false,
+      "sessionResultType": "ORIGINAL",
+      "hasMultiDayActivities": false,
+      "thirdPartyGymEquipment": [],
+      "manualActivity": false,
+      "runPowerWindDataEnabled": null,
+      "trimmed": false,
+      "elevationCorrected": false,
+      "autoCalcCalories": false,
+      "favorite": false,
+      "personalRecord": false,
+      "gcj02": false
+    },
+    "summaryDTO": {
+      "startTimeLocal": "2026-10-24T10:05:46.0",
+      "startTimeGMT": "2026-10-24T06:05:46.0",
+      "distance": 0.0,
+      "duration": 741.701,
+      "movingDuration": 741.701,
+      "elapsedDuration": 835.546,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 0.0,
+      "calories": 58.0,
+      "bmrCalories": 18.0,
+      "averageHR": 102.0,
+      "maxHR": 117.0,
+      "minHR": 71.0,
+      "averageTemperature": 23.587601078167115,
+      "maxTemperature": 26.0,
+      "minTemperature": 18.0,
+      "trainingEffect": 0.20000000298023224,
+      "anaerobicTrainingEffect": 0.0,
+      "aerobicTrainingEffectMessage": "NO_AEROBIC_BENEFIT_18",
+      "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+      "totalExerciseReps": 8,
+      "activeSets": 1,
+      "waterEstimated": 95.0,
+      "minRespirationRate": 15.6899995803833,
+      "maxRespirationRate": 27.299999237060547,
+      "avgRespirationRate": 21.209999084472656,
+      "trainingEffectLabel": "UNKNOWN",
+      "activityTrainingLoad": 3.4624481201171875,
+      "minActivityLapDuration": 741.701,
+      "moderateIntensityMinutes": 9,
+      "vigorousIntensityMinutes": 0,
+      "steps": 16
+    }
+  }
+}

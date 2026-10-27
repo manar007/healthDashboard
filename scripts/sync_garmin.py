@@ -112,7 +112,15 @@ def sync(days: int = 7):
         
         for date_str, acts in by_date.items():
             act_file = ACTIVITIES_DIR / f"{date_str}.json"
-            save_json(act_file, {"count": len(acts), "activities": acts}, force=(date_str == today.isoformat()))
+            needs_update = (date_str == today.isoformat())
+            if act_file.exists() and not needs_update:
+                try:
+                    existing = json.loads(act_file.read_text(encoding="utf-8"))
+                    if existing.get("data", {}).get("count") != len(acts):
+                        needs_update = True
+                except Exception:
+                    needs_update = True
+            save_json(act_file, {"count": len(acts), "activities": acts}, force=needs_update)
             
     except Exception as e:
         print(f"Error fetching activities: {e}")
