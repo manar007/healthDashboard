@@ -1,0 +1,49 @@
+{
+  "_fetched_at": "2026-10-31T12:33:26.928070+00:00",
+  "data": {
+    "activityId": 24892546871,
+    "lapDTOs": [
+      {
+        "startTimeGMT": "2026-10-29T12:07:08.0",
+        "distance": 0.0,
+        "duration": 921.258,
+        "movingDuration": 921.258,
+        "elapsedDuration": 921.258,
+        "averageSpeed": 0.0,
+        "averageMovingSpeed": 0.0,
+        "calories": 79.0,
+        "bmrCalories": 22.0,
+        "averageHR": 94.0,
+        "maxHR": 111.0,
+        "averageTemperature": 21.976112920738327,
+        "maxTemperature": 23.0,
+        "minTemperature": 21.0,
+        "trainingEffect": 0.20000000298023224,
+        "waterEstimated": 112.0,
+        "lapIndex": 1,
+        "lengthDTOs": [],
+        "connectIQMeasurement": []
+      }
+    ],
+    "eventDTOs": [
+      {
+        "startTimeGMT": "2026-10-29T12:07:07.0",
+        "startTimeGMTDoubleValue": 1793275627000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      },
+      {
+        "startTimeGMT": "2026-10-29T12:07:08.0",
+        "startTimeGMTDoubleValue": 1793275628000.0,
+        "sectionTypeDTO": {
+          "id": 4,
+          "key": "timerTrigger",
+          "sectionTypeKey": "TIMER_TRIGGER"
+        }
+      }
+    ]
+  }
+}
